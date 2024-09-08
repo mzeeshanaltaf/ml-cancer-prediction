@@ -4,6 +4,7 @@ Detect & Visualize Breast Cancer Risk with Precision 🎯
 This application allows users to input Cell Nuclei Measurement data and provides a prediction of breast cancer likelihood. It also visually represents the measurements in an intuitive radar chart 🕸️, making it easier to understand the crucial factors influencing the diagnosis. Fast, insightful, and life-saving 💡!
 
 # Application Link
+https://st-breast-cancer-prediction.streamlit.app/
 
 # Supported Machine Learning Models
   * Logistic Regression
@@ -32,6 +33,7 @@ You must have Python 3.10 or later installed. Earlier versions of python may not
    `streamlit run main.py`
 
 # Screen Shots
+![image](https://github.com/user-attachments/assets/19897deb-a8f0-42f6-91aa-8d169059876e)
 
 
 
