@@ -229,7 +229,7 @@ def display_footer():
         </style>
         <div class="footer">
             Made with ❤️ by <a href="mailto:zeeshan.altaf@92labs.ai">Zeeshan</a>.
-            Source code <a href='https://github.com/mzeeshanaltaf/'>here</a>.</div> 
+            Source code <a href='https://github.com/mzeeshanaltaf/ml-cancer-prediction'>here</a>.</div> 
         </div>
     """
     st.markdown(footer, unsafe_allow_html=True)
